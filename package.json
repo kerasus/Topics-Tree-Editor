@@ -56,7 +56,7 @@
     "quasar-template-builder": "^1.1.1",
     "quasar-ui-q-page-builder": "^0.4.4",
     "socket.io-client": "^4.7.2",
-    "video.js": "^8.6.0",
+    "video.js": "^8.14.1",
     "videojs-brand": "^0.0.4",
     "videojs-contrib-quality-levels": "^3.0.0",
     "videojs-hls-quality-selector": "^1.1.4",
