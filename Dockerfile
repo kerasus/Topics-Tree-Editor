@@ -1,4 +1,4 @@
-FROM node:20.9-alpine AS prebuild
+FROM node:20.13.0-alpine AS prebuild
 
 # Set working directory
 WORKDIR /var/www/app
@@ -47,7 +47,7 @@ RUN yarn build:ssr
 ##############################################
 
 
-FROM node:20.9-alpine
+FROM node:20.13.0-alpine
 
 COPY --from=prebuild /var/www/app/dist/ssr /var/www/app/dist/ssr
 
