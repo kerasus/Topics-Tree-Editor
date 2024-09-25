@@ -23,7 +23,7 @@
     "@nodeguy/server-date": "^4.0.3",
     "@quasar/app-vite": "^1.7.1",
     "@quasar/extras": "^1.16.9",
-    "@sentry/vite-plugin": "^2.10.1",
+    "@sentry/vite-plugin": "^2.22.3",
     "@sentry/vue": "^7.80.1",
     "autoprefixer": "^10.4.14",
     "axios": "^1.5.1",
