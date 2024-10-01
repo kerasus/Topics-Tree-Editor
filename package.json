@@ -61,7 +61,7 @@
     "videojs-contrib-quality-levels": "^3.0.0",
     "videojs-hls-quality-selector": "^1.1.4",
     "videojs-hotkeys": "^0.2.28",
-    "vue": "^3.2.47",
+    "vue": "^3.5.4",
     "vue-advanced-cropper": "^2.8.3",
     "vue-audio-visual": "^2.5.0",
     "vue-i18n": "^9.2.2",
