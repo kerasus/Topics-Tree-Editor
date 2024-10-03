@@ -38,7 +38,7 @@
     "eslint-plugin-vue": "^9.9.0",
     "filepond": "^4.30.4",
     "filepond-plugin-image-preview": "^4.6.11",
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "highcharts": "^10.3.2",
     "highcharts-vue": "^1.4.0",
     "html2pdf.js": "^0.10.1",
